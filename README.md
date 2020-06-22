@@ -19,6 +19,6 @@
 
 In the `data` directory:
 
-- `disposable-income.tsv`: UK equivalised disposable income 1977-2012/13 in 2012/13 prices. Source: : Office for National Statistics licensed under the Open Government Licence.
+- `disposable-income.tsv`: UK equivalised disposable income 1977-2012/13 in 2012/13 prices. Source: Office for National Statistics licensed under the Open Government Licence.
 
-Also download the "all sites" data set from http://academic.udayton.edu/kissock/http/Weather/default.htm and unzip in the `data` directory.
+- `AUPERTH.txt` and `UKLONDON.txt`: Temperature data taken from the "all sites" data set at http://academic.udayton.edu/kissock/http/Weather/default.htm
